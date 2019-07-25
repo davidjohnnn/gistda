@@ -4,7 +4,7 @@ http://bit.ly/spark_gistda
 
 ## Lecture Slide:
 
-https://drive.google.com/open?id=1IRk4sNCYk6MDDzwnwE_9ZvVCc--D6fnI
+https://drive.google.com/open?id=19HNUp2ox_oLZoLPYeMwiVEJL7LXcngTl
 
 
 ## Lecture Code:
