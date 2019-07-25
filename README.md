@@ -6,6 +6,10 @@ http://bit.ly/spark_gistda
 
 https://drive.google.com/open?id=19HNUp2ox_oLZoLPYeMwiVEJL7LXcngTl
 
+## Data Set
+
+https://drive.google.com/open?id=1qC5qKQrK2wVcxhJ6kFOXV-3PQSKrf3aC
+
 
 ## Lecture Code:
 
@@ -26,8 +30,35 @@ https://colab.research.google.com/drive/1V7qOkBGLAUWyW3np2hnrSWDU9PVjm2O1
 
 ## Exercises:
 
-0_Titanic_Solution (Not Yet)
+0_Titanic_Solution
 https://colab.research.google.com/drive/1k0lMxCZhzTHFtOZcWi0aAfIHhowrvtoz
 
 1_DecisionTree_Pipeline_Iris_Solution
 https://colab.research.google.com/drive/18tvStCyU0l0oz0b4mTmm1jSHwj-pjsgi
+
+## Installation
+
+### Upload files to Colab
+from google.colab import files
+uploaded = files.upload()
+
+
+### Write out files with Colab
+from google.colab import files
+files.download('data.dat')
+
+### Spark Installation on Colab
+
+!apt-get install openjdk-8-jdk-headless -qq > /dev/null
+!wget -q http://www-eu.apache.org/dist/spark/spark-2.4.3/spark-2.4.3-bin-hadoop2.7.tgz
+!tar xf spark-2.4.3-bin-hadoop2.7.tgz
+!pip install -q findspark
+
+import os
+os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
+os.environ["SPARK_HOME"] = "/content/spark-2.4.3-bin-hadoop2.7"
+import findspark
+findspark.init()
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.master("local[* ]").getOrCreate()
+
