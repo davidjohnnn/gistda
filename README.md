@@ -1,13 +1,13 @@
-SPARK Lab and Exercises 
+# SPARK Lab and Exercises 
 (GISTDA 2019)
 http://bit.ly/spark_gistda
 
-Lecture Slide:
+## Lecture Slide:
 
 https://drive.google.com/open?id=1IRk4sNCYk6MDDzwnwE_9ZvVCc--D6fnI
 
 
-Lecture Code:
+## Lecture Code:
 
 1_Pyspark_Transform_Action
 https://colab.research.google.com/drive/150MnQ0Fx1-reySAXsQ24L-B-SVu6aPSS
