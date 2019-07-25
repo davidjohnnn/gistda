@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1eKnTRYII82z_vVp2L4ZdHCgpLzDuKFBi
 5_Pyspark_Clustering_Pipeline_Cdr
 https://colab.research.google.com/drive/1V7qOkBGLAUWyW3np2hnrSWDU9PVjm2O1
 
-Exercises:
+## Exercises:
 
 0_Titanic_Solution (Not Yet)
 https://colab.research.google.com/drive/1k0lMxCZhzTHFtOZcWi0aAfIHhowrvtoz
