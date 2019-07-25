@@ -26,7 +26,7 @@ https://colab.research.google.com/drive/1V7qOkBGLAUWyW3np2hnrSWDU9PVjm2O1
 
 ## Exercises:
 
-0_Titanic_Solution (Not Yet)
+0_Titanic_Solution
 https://colab.research.google.com/drive/1k0lMxCZhzTHFtOZcWi0aAfIHhowrvtoz
 
 1_DecisionTree_Pipeline_Iris_Solution
