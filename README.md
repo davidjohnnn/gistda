@@ -5,7 +5,7 @@ Date: Tuesday 6, 2019
 1. Twitter Search
 Code: https://colab.research.google.com/drive/1ykhxmPtqUeeGwx4HcIdyN-MCF2em-Qmk
 
-2. AnalyzeTwitter
+2. Analyze Twitter
 Code: https://colab.research.google.com/drive/1Prtd5SRt5IaHI9Y0ytNTVAbrhr6H-AcL
 
 Github: https://github.com/davidjohnnn/gistda
