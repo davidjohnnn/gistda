@@ -18,7 +18,11 @@ http://bit.ly/spark_gistda
 
 ## Lecture Slide:
 
-https://drive.google.com/open?id=1IRk4sNCYk6MDDzwnwE_9ZvVCc--D6fnI
+https://drive.google.com/open?id=19HNUp2ox_oLZoLPYeMwiVEJL7LXcngTl
+
+## Data Set
+
+https://drive.google.com/open?id=1qC5qKQrK2wVcxhJ6kFOXV-3PQSKrf3aC
 
 
 ## Lecture Code:
@@ -40,11 +44,11 @@ https://colab.research.google.com/drive/1V7qOkBGLAUWyW3np2hnrSWDU9PVjm2O1
 
 ## Exercises:
 
-0_Titanic_Solution
-https://colab.research.google.com/drive/1k0lMxCZhzTHFtOZcWi0aAfIHhowrvtoz
+0_Titanic_toStudent
+https://colab.research.google.com/drive/1tqR-bnEA-VeDYVRK9f8TOIv_sSdiL8ab
 
-1_DecisionTree_Pipeline_Iris_Solution
-https://colab.research.google.com/drive/18tvStCyU0l0oz0b4mTmm1jSHwj-pjsgi
+1_DecisionTree_Pipeline_Iris_toStudent
+https://colab.research.google.com/drive/1cKG3vrepEQKCmAQUXoyrw95Ge2Q7g8vz
 
 ## Installation
 
