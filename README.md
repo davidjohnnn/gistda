@@ -1,3 +1,17 @@
+# GISTDA (Twitter Scraping Code on Colab)
+
+Date: Tuesday 6, 2019
+
+1. Twitter Search
+Code:https://colab.research.google.com/drive/1EjJALkZqU4WvHcUhYddLK-_97sh9_Wys
+
+2. AnalyzeTwitter
+Code: https://colab.research.google.com/drive/167glrgTDzak6Nn_U-B6JOX4JImyihzxM
+
+Github: https://github.com/davidjohnnn/gistda
+
+
+
 # SPARK Lab and Exercises 
 (GISTDA 2019)
 http://bit.ly/spark_gistda
