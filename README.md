@@ -3,10 +3,10 @@
 Date: Tuesday 6, 2019
 
 1. Twitter Search
-Code:https://colab.research.google.com/drive/1EjJALkZqU4WvHcUhYddLK-_97sh9_Wys
+Code: https://colab.research.google.com/drive/1ykhxmPtqUeeGwx4HcIdyN-MCF2em-Qmk
 
 2. AnalyzeTwitter
-Code: https://colab.research.google.com/drive/167glrgTDzak6Nn_U-B6JOX4JImyihzxM
+Code: https://colab.research.google.com/drive/1Prtd5SRt5IaHI9Y0ytNTVAbrhr6H-AcL
 
 Github: https://github.com/davidjohnnn/gistda
 
